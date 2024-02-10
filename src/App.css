@@ -5,6 +5,7 @@
 }
 .mw{
     background-color: rgba(128, 128, 128, 0.745);
+    width: 20%;
 }
 .btn1{
     background-color:rgba(255, 0, 0, 0.462);
@@ -42,7 +43,7 @@
 
     }
     .mw{
-        width: 100%;
+        width: 35%;
     }
     
 }

@@ -13,11 +13,11 @@ function App() {
         <div style={{ width: '100%', height: '100vh',backgroundColor}} className='row d-flex justify-content-center align-items-center '>
   
     <div className='col-lg-9'>
-              <h1 className='text-white'>BACKGROUND COLOUR CHANGE</h1>
+              <h1 className='text-black'>BACKGROUND COLOUR CHANGE</h1>
       
     </div>
  
-         <div className='w-25 mw d-flex justify-content-center align-items-center  p-3 rounded shadow flex-column text-light'>
+         <div className=' mw d-flex justify-content-center align-items-center  p-3 rounded shadow flex-column text-light'>
             <button className='w-100 button btn1' style={{ marginRight: '10px',height:'60px' }} onClick={() => changeColour('red')}>RED</button><br />
             <button className=' w-100 button btn2' style={{ marginRight: '10px',height:'60px'  }} onClick={() => changeColour('blue')}>BLUE</button><br />
   
